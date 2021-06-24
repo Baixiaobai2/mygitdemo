@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="duo-mybatis" />
+        <module name="errorandexception" />
+        <module name="filterandinterceptor" />
+        <module name="jpa" />
+        <module name="mybatis" />
+        <module name="mybatis-plus" />
+        <module name="oracle" />
+        <module name="tk-mybatis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo1" target="1.8" />
+      <module name="demo2" target="1.7" />
+      <module name="duo-mybatis" target="1.8" />
+      <module name="errorandexception" target="1.8" />
+      <module name="filterandinterceptor" target="1.8" />
+      <module name="jpa" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="mybatis-plus" target="1.8" />
+      <module name="oracle" target="1.8" />
+      <module name="tk-mybatis" target="1.8" />
+      <module name="tkmybatis" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

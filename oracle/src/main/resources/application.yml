@@ -1,0 +1,15 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@127.0.0.1:1521:orcl
+    username: sys as sysdba
+    password: baiyufeng
+
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create
+    database-platform: org.hibernate.dialect.OracleDialect

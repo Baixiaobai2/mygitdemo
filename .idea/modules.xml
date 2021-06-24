@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/duo-mybatis/duo-mybatis.iml" filepath="$PROJECT_DIR$/duo-mybatis/duo-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errorandexception/errorandexception.iml" filepath="$PROJECT_DIR$/errorandexception/errorandexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filterandinterceptor/filterandinterceptor.iml" filepath="$PROJECT_DIR$/filterandinterceptor/filterandinterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/jpa.iml" filepath="$PROJECT_DIR$/jpa/jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" filepath="$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mygitdemo.iml" filepath="$PROJECT_DIR$/.idea/mygitdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oracle/oracle.iml" filepath="$PROJECT_DIR$/oracle/oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tk-mybatis/tk-mybatis.iml" filepath="$PROJECT_DIR$/tk-mybatis/tk-mybatis.iml" />
+    </modules>
+  </component>
+</project>

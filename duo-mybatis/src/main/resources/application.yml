@@ -1,0 +1,13 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    db1:
+     jdbc-url: jdbc:mysql://localhost:3306/jd?useUnicode=true&characterEncoding=UTF-8&serverTimezone=CST
+     username: root
+     password: baiyufeng
+    db2:
+      jdbc-url: jdbc:mysql://localhost:3306/atm?useUnicode=true&characterEncoding=UTF-8&serverTimezone=CST
+      username: root
+      password: baiyufeng

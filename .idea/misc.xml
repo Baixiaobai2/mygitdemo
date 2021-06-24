@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demo2" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/tk-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/duo-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/oracle/pom.xml" />
+        <option value="$PROJECT_DIR$/filterandinterceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/errorandexception/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
